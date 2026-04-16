@@ -1,0 +1,12 @@
+.category-banner {
+  background:
+    linear-gradient(135deg, rgba(230, 103, 46, 0.12), rgba(17, 128, 148, 0.12)),
+    rgba(255, 255, 255, 0.58);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 1.8rem;
+  margin: 1.5rem 0 2rem;
+  box-shadow: var(--shadow);
+}
+
+.category-banner p:last-child { margin-bottom: 0; }
